@@ -1,12 +1,8 @@
-# Porfolio
+# Porfolio - Daniel Testa
 
-Daniel Testa
+FULL STACK WEB DEVELOPER
 
-Personal Webpage
+Passionate, self-motivated and creative with an education in  Information Technology and Informatics and Entrepreneurship.
 
- - About Me
-
- - Portfolio
-
- - Contact
+This Webpage includes information about me, my recent projects, and contact information.
 
