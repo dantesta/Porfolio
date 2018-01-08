@@ -1,4 +1,4 @@
-# Porfolio - Daniel Testa
+# Portfolio - Daniel Testa
 
 FULL STACK WEB DEVELOPER
 
@@ -6,3 +6,4 @@ Passionate, self-motivated and creative with an education in  Information Techno
 
 This Webpage includes information about me, my recent projects, and contact information.
 
+https://github.com/dantesta
