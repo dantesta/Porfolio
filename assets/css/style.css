@@ -18,6 +18,10 @@ body {
 
 }
 
+h1 {
+  font-weight: bolder;
+}
+
 .text-center {
   color: #0d0d0d;
   font-weight: bold;
@@ -27,10 +31,27 @@ body {
   background-color: #c0f2c1;
 }
 
+.site-wrapper {
+    display: table;
+  width: 100%;
+  height: 100%; /* For at least Firefox */
+  min-height: 100%;
+  background: url("../images/wall.jpg") no-repeat center center;
+}
+
 
 .lead, .aboutme {
-  color: #009933;
+  color: white;
   font-weight: 600;
+}
+
+.fa.fa-linkedin-square
+ {
+  color: #0077B5;
+}
+
+.fa.fa-github {
+  color: #0d0d0d;
 }
 
 
