@@ -2,7 +2,7 @@
 a,
 a:focus,
 a:hover {
- color: green;
+ color: #009933;
 }
 
 html,
@@ -12,20 +12,24 @@ body {
 }
 
 body {
-  color: black;
+  color: #0d0d0d;
   text-align: center;
   font-family: 'Nunito Sans', serif;
 
 }
 
 .text-center {
-  color: black;
+  color: #0d0d0d;
   font-weight: bold;
+}
+
+.portfolio {
+  background-color: #c0f2c1;
 }
 
 
 .lead, .aboutme {
-  color: green;
+  color: #009933;
   font-weight: 600;
 }
 
@@ -45,6 +49,11 @@ body {
 a.navbar-brand {
 	margin-left: 5rem;
 }
+nav {
+  color:#0d0d0d;
+}
+
+
 
 #brandTitle {
 	color: white;
@@ -53,7 +62,7 @@ a.navbar-brand {
 .nav-link {
   padding: .25rem .25rem;
   font-weight: 700;
-  color: green;
+  color: #009933;
 
 }
 
